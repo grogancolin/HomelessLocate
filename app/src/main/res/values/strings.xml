@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HomelessLocate</string>
+    <string name="title_activity_locate">Locate</string>
+    <string name="info">A little bit of text describing what this is for,
+        and how it is of benefit</string>
+</resources>
